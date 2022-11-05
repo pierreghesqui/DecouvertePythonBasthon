@@ -1,1 +1,14 @@
-https://mybinder.org/v2/gh/pierreghesqui/decouvertePython/main
+Activité 1 : 
+https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/pierreghesqui/DecouvertePythonBasthon/main/Activit%C3%A9%201%20-%20Input.ipynb
+
+Activité 2 : 
+https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/pierreghesqui/DecouvertePythonBasthon/main/Activit%C3%A9%202%20-%20Conditions.ipynb
+
+Activité 3 :
+https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/pierreghesqui/DecouvertePythonBasthon/main/Activit%C3%A9%203-%20%20Variables.ipynb
+
+Activité 4: 
+https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/pierreghesqui/DecouvertePythonBasthon/main/Activit%C3%A9%204%20-%20Projet%20Casino.ipynb
+
+Activité 5: 
+https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/pierreghesqui/DecouvertePythonBasthon/main/Activit%C3%A9%205-%20Projet%20Pierre%2C%20feuille%20ciseaux.ipynb
